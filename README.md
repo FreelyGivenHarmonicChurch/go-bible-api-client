@@ -48,3 +48,7 @@ curl -X GET "https://api.scripture.api.bible/v1/bibles/de4e12af7f28f599-02" -H  
     "audioBibles": []
   }
 }
+
+
+# Choosing authentication when pushing
+git push -u origin <branch>
